@@ -19,8 +19,8 @@
   --table-gap: 2px;											/* High number is not recommended */
   
   /* Arrow Icons */
-  --left-arrow: url('https://raw.githubusercontent.com/Exe-Eyes/chevron_svg/main/BxChevronLeft.svg');
-  --right-arrow: url('https://raw.githubusercontent.com/Exe-Eyes/chevron_svg/main/BxChevronRight.svg');   
+  --left-arrow: url('https://raw.githubusercontent.com/Exe-Eyes/chevron_svg/main/ChevronLeft.svg');
+  --right-arrow: url('https://raw.githubusercontent.com/Exe-Eyes/chevron_svg/main/ChevronRight.svg'); 
   --arrow-bg-color: transparent;
 }
 
